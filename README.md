@@ -127,5 +127,3 @@ From these 16 trades, his approach can be summarized as follows:
 ## One-Line Summary
 
 "Trend-following scalper, fast in and fast out, concentrated on Nasdaq and Gold" — a short-term momentum trader with trend awareness but still carrying gambling tendencies.
-
-If compared to an animal, he resembles a cheetah: mostly lurking and waiting, then sprinting at full speed when the prey accelerates, never engaging in a long-distance chase. The pattern is fast, decisive, and opportunistic rather than patient and methodical.
