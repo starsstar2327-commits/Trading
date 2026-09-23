@@ -1,12 +1,15 @@
 # Trading
-It is my own discretionary trade and trading strategy
 
-Trading Performance Analysis — August 2026 Competition: The Leap Tradstation
-Trader Profile: Discretionary Short-Term Momentum Scalper
-Evaluation Period: 5 Trading Days (2026-08-07 → 2026-08-13)
-Sample Size: 16 Trades
+My own discretionary trading journal and strategy notes.
 
-📋 Complete Trade Record (16 Trades)
+## Performance Overview
+
+- Trading Performance Analysis — August 2026 Competition: The Leap Tradstation
+- Trader Profile: Discretionary Short-Term Momentum Scalper
+- Evaluation Period: 5 trading days (2026-08-07 → 2026-08-13)
+- Sample Size: 16 trades
+
+## Complete Trade Record
 
 | # | Date | Time | Symbol | Side | Qty | Entry | Exit | P&L (USD) | Hold |
 |---:|---|---|---|---|---:|---:|---:|---:|---|
@@ -27,7 +30,7 @@ Sample Size: 16 Trades
 | 15 | 2026-08-13 | 13:44→13:51 | CL1! Crude | Buy | 1 | 82.99 | 83.04 | +$49.15 | 7 min |
 | 16 | 2026-08-13 | 14:17→17:21 | MBT1! Micro Bitcoin | Sell | 5 | 63890.00 | 63725.00 | +$78.25 | 3 hr |
 
-📊 Summary Statistics
+## Summary Statistics
 
 | Metric | Value |
 |---|---|
@@ -37,7 +40,7 @@ Sample Size: 16 Trades
 | Net P&L | +$2,616.70 |
 | Average P&L per Trade | +$163.54 |
 
-📈 Performance by Market
+## Performance by Market
 
 | Market | Trades | Wins | Losses | Win Rate | Net P&L |
 |---|---:|---:|---:|---:|---:|
@@ -47,7 +50,7 @@ Sample Size: 16 Trades
 | CL1! Crude | 1 | 1 | 0 | 100% | +$49.15 |
 | MBT1! Micro Bitcoin | 1 | 1 | 0 | 100% | +$78.25 |
 
-⏱️ Performance by Hold Time
+## Performance by Hold Time
 
 | Hold Time | Trades | Win Rate |
 |---|---:|---:|
@@ -57,7 +60,7 @@ Sample Size: 16 Trades
 | 30–60 minutes | 3 | 100% |
 | > 1 hour | 2 | 50% |
 
-🏅 Top 3 Trades
+## Top 3 Trades
 
 | # | Symbol | Side | P&L | Hold |
 |---:|---|---|---:|---|
@@ -65,7 +68,7 @@ Sample Size: 16 Trades
 | 6 | NQ1! Nasdaq | Sell | +$504.15 | 1 min |
 | 9 | GC1! Gold | Buy | +$429.15 | 35 min |
 
-⚠️ Bottom 3 Trades
+## Bottom 3 Trades
 
 | # | Symbol | Side | P&L | Hold |
 |---:|---|---|---:|---|
@@ -73,55 +76,56 @@ Sample Size: 16 Trades
 | 11 | GC1! Gold | Buy | -$270.85 | 12 min |
 | 7 | NQ1! Nasdaq | Buy | -$125.85 | <1 min |
 
-🎯 Conclusion
+## Conclusion
 
 August was his strongest month on record.
 
-16 trades, 81% win rate, +$2,616.70.
+- 16 trades
+- 81% win rate
+- +$2,616.70 net P&L
 
 Core edge: Nasdaq + Gold, short-term momentum capture.
 
-Sole critical flaw: The 4-hour MNQ hold.
+Sole critical flaw: the 4-hour MNQ hold.
 
-🧠 Style Analysis
+## Style Analysis
 
 From these 16 trades, his approach can be summarized as follows:
 
-Core Style: Short-Term Momentum Capture + Breakout Chasing
+### Core Style: Short-Term Momentum Capture + Breakout Chasing
 
 1. Ultra-Short-Term Focus — Fast In, Fast Out
-- Median hold time: approximately 12 minutes
-- More than half of all trades closed within 10 minutes
-- No lingering — takes profit immediately, cuts losses immediately (the only exception being the 4-hour MNQ trade)
+   - Median hold time: approximately 12 minutes
+   - More than half of all trades closed within 10 minutes
+   - No lingering — he takes profit quickly and cuts losses quickly, with the notable exception of the 4-hour MNQ trade
 
 2. Trend-Following, Minimal Bottom-Fishing
-Observing entry directions:
-- 5 of 7 Nasdaq trades were shorts — the Nasdaq was clearly in a downtrend, and he sold with the trend rather than betting on a reversal
-- All Gold trades were longs — Gold was in a clear uptrend, and he bought only, never sold
-- Demonstrates strong trend-following awareness — he does not fight the market
+   - 5 of 7 Nasdaq trades were shorts — the Nasdaq was in a clear downtrend, and he sold with the trend rather than betting on a reversal
+   - All Gold trades were longs — Gold was in a clear uptrend, and he bought only, never sold
+   - Demonstrates strong trend-following awareness; he does not fight the market
 
 3. Captures the Impulse Leg — No Heads or Tails
-- Captures several hundred points of movement within minutes of entry
-- Typical approach: sees price accelerate, jumps in immediately, takes a segment, and exits
-- Does not wait for pullbacks to enter, nor does he hold for the full trend
+   - Captures several hundred points of movement within minutes of entry
+   - Typical approach: sees price accelerate, jumps in immediately, takes a segment, and exits
+   - Does not wait for pullbacks to enter, nor hold for the full trend
 
 4. Concentrated on Two or Three Markets — No Scattered Focus
-- Primary markets: Nasdaq + Gold
-- Other markets (S&P, Crude, Bitcoin) are occasional one-off trades
-- Knows where his edge lies — does not trade every market
+   - Primary markets: Nasdaq + Gold
+   - Other markets (S&P, Crude, Bitcoin) are occasional one-off trades
+   - Knows where his edge lies and does not trade every market
 
 5. High Win Rate, Small Gains Model
-- 81% win rate, but average gain per trade is only $163
-- Rarely exceeds $500 on a single trade (only 2 out of 16)
-- Does not chase "one big win" — prefers steady accumulation
+   - 81% win rate, but average gain per trade is only $163
+   - Rarely exceeds $500 on a single trade (only 2 out of 16)
+   - Does not chase a single big win; prefers steady accumulation
 
 6. Disciplined but Not Fully Matured
-- Maintains short-term discipline most of the time
-- However, the 4-hour MNQ trade exposes his weakness: when a trade goes wrong, he struggles to accept the loss and cut it, leading to deeper drawdown
-- The two <1-minute trades also show occasional impulsive entries
+   - Maintains short-term discipline most of the time
+   - However, the 4-hour MNQ trade exposes a weakness: when a trade goes wrong, he struggles to accept the loss and cut it, leading to deeper drawdown
+   - The two <1-minute trades also suggest occasional impulsive entries
 
-🐆 One-Line Summary
+## One-Line Summary
 
 "Trend-following scalper, fast in and fast out, concentrated on Nasdaq and Gold" — a short-term momentum trader with trend awareness but still carrying gambling tendencies.
 
-If compared to an animal, he resembles a cheetah — mostly lurking and waiting, then sprinting at full speed when the prey accelerates, never engaging in a long-distance chase. But the cheetah's weakness is this: if the first pounce misses, it easily exhausts its energy.
+If compared to an animal, he resembles a cheetah: mostly lurking and waiting, then sprinting at full speed when the prey accelerates, never engaging in a long-distance chase. The pattern is fast, decisive, and opportunistic rather than patient and methodical.
