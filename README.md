@@ -126,4 +126,4 @@ From these 16 trades, his approach can be summarized as follows:
 
 ## One-Line Summary
 
-"Trend-following scalper, fast in and fast out, concentrated on Nasdaq and Gold" — a short-term momentum trader with trend awareness but still carrying gambling tendencies.
+"Trend-following scalper, fast in and fast out, concentrated on Nasdaq and Gold" — a short-term momentum trader with trend awareness.
